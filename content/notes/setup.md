@@ -3,6 +3,7 @@ title: "Setup"
 tags:
 - setup
 weight: -5
+draft: true
 ---
 
 ## Making your own Quartz
